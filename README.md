@@ -1,4 +1,4 @@
-### Hi there 👋
+##  👾👾 Sou estudante de Full-stack e Faculdade de Analise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/AugustGui18">
