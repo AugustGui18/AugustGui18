@@ -1,7 +1,7 @@
 name: Generate Datas
 
 # Nome da Actions:  
-name: Snake Game
+name: cobrinha.yml
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
